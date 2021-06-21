@@ -17,6 +17,3 @@ Benchee.run(
   },
   inputs: inputs
 )
-
-
-
